@@ -1,0 +1,3 @@
+# Manifiesto Truco Libre
+
+Creemos indispensable...
