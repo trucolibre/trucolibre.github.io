@@ -2,7 +2,7 @@
 
 ## Principiantes
 
-- [Ollie](https://trucolibre.github.io/trucos/reudas/patinetas/ollie)
+- [Ollie](https://trucolibre.github.io/trucos/ruedas/patinetas/ollie)
 
 
 # Files
